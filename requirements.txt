@@ -4,3 +4,7 @@
 -- Matplotlib 3.5.1
 -- Seaborn 0.11.0
 -- Scikit-learn 0.16.1
+-- NLTK Package 
+-- Spacy Package 
+-- SpamClassifier.csv from kaggle
+-- tweet.csv from kaggle
